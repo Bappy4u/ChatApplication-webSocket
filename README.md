@@ -1,9 +1,9 @@
 ## Simple chat application using sokcet.io
 
-####Stack:
+#### Stack:
 * Socket.io
 * Node.js, express.js
-* 
+  
 ## Setup
 #### The first thing to do is to clone the repository:
 
@@ -26,7 +26,7 @@ nodemon index.js
 ```
 ```
 And navigate to http://127.0.0.1:4000/
-
+```
 
 Preview: 
 ![chatApplication2](https://github.com/Bappy4u/ChatApplication-webSocket/assets/26277680/c7b3ca27-abc0-4e9b-9829-9f7e000d335d)
